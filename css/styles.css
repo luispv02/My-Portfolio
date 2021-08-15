@@ -128,7 +128,6 @@ header h1 {
           transform: scale(1.05);
   -webkit-transition: all 500ms;
   transition: all 500ms;
-  cursor:zoom-in ;
 }
 
 .btn-modal:active {
@@ -169,6 +168,10 @@ header h1 {
           transform: rotate(360deg);
   -webkit-transition: all 500ms;
   transition: all 500ms;
+}
+
+.proyecto {
+  text-align: center;
 }
 
 .iconos i {
